@@ -1,4 +1,4 @@
-# clima
+# WeatherBuddy
 
 A new Flutter project.
 
