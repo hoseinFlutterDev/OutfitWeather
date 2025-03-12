@@ -16,8 +16,6 @@ class Location {
       );
       latitude = position.latitude; // اصلاح شد
       longitude = position.longitude; // اصلاح شد
-    } catch (e) {
-      print(e);
-    }
+    } catch (e) {}
   }
 }
